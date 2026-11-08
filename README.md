@@ -1,9 +1,13 @@
 # 🏴‍☠️ Pirate Radar
 
-**A pirate-style radar overlay for treasure-hunt events, stream shows and pranks.**
+**A pirate-style radar overlay prop for Fortnite treasure-hunt events, stream shows and pranks.**
 
 > ⚠️ **This is a decorative prop. It does not track, read or detect anything in any game.**
 > The coin on the radar is scripted for show and never leads to a real location. Use it as an entertainment element for your event.
+
+## Made for Fortnite events
+
+Pirate Radar is designed to be used on top of Fortnite during community treasure-hunt and coin-hunt events. It looks great on streams and in videos, and it works the same way on top of any other game or app in windowed or borderless mode. Remember: it is only a show prop and does not interact with the game.
 
 ## What it is
 
@@ -53,6 +57,9 @@ It does not inject into, read from or modify the game, its files or its memory. 
 
 **Why does Windows show an "unknown publisher" warning?**
 The installer is not code-signed. Choose "More info" and then "Run anyway" if you trust the source.
+
+**Does it work with Fortnite?**
+Yes. Set Fortnite to Windowed Fullscreen and the radar shows on top of the game. It is a prop, so it does not read or change anything in the game.
 
 **Can I use it outside Fortnite?**
 Yes. It works as an overlay on top of any game or app running in windowed or borderless mode.
