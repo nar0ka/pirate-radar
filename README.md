@@ -1,5 +1,7 @@
 # 🏴‍☠️ Pirate Radar
 
+**[⬇️ Get Pirate Radar on Gumroad](https://naroka.gumroad.com/l/PirateRadar)**
+
 **A pirate-style radar overlay prop for Fortnite treasure-hunt events, stream shows and pranks.**
 
 > ⚠️ **This is a decorative prop. It does not track, read or detect anything in any game.**
@@ -46,6 +48,8 @@ The overlay appears automatically while Fortnite is running (it only checks whet
 
 - Windows 10 or 11
 - The game must run in **Windowed Fullscreen** (borderless) mode, otherwise overlays cannot be displayed on top of it
+
+> 🏴‍☠️ **[Get Pirate Radar on Gumroad](https://naroka.gumroad.com/l/PirateRadar)** — Windows, decorative prop for Fortnite events and pranks
 
 ## FAQ
 
